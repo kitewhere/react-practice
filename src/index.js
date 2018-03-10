@@ -27,3 +27,5 @@ const App = () => (
 );
 
 render(<App />, document.getElementById("root"));
+
+// todo: add status bar
